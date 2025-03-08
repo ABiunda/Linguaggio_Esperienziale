@@ -30,4 +30,4 @@ Progetto per l'analisi e la classificazione del linguaggio esperienziale e filos
 Se vuoi contribuire, apri una pull request o contattami.
 
 ## Licenza
-MIT License.
+GNU License.
